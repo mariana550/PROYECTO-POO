@@ -1,23 +1,29 @@
-# PROYECTO-POO
+# Sistema de Recomendación de Rutinas y Alimentación Personalizada de un Gimnasio
 
-Sistema de recomendación de rutinas y alimentación personalizada de un gimnasio.
+## Requisitos Funcionales
 
-REQUERIMIENTOS FUNCIONALES.
+1. **Registro de Usuarios**  
+   El sistema debe permitir registrar a los usuarios ingresando su nombre y su peso.
 
-Nuestro sistema debe permitir registrar los usuarios con su  nombre y su peso.  
+2. **Generación de Rutina y Plan de Alimentación**  
+   El sistema debe generar automáticamente una rutina de ejercicios y un plan de alimentación según el peso registrado de cada usuario.
 
-Nuestro sistema debe realizar una rutina de ejercicios y un plan de alimentación según el respectivo peso de cada usuario.
+3. **Actualización de Peso**  
+   El sistema debe permitir la actualización del peso del usuario en cualquier momento.
 
-El sistema debe permitir actualizar el peso en cualquier momento.
+4. **Recalculación Automática**  
+   Cuando se actualiza el peso del usuario, el sistema debe generar una nueva rutina de ejercicios y un nuevo plan de alimentación de manera automática.
 
-Cuando ya se haya actualizado el peso,el sistema debe de generar una nueva rutina de ejercicios y un nuevo plan de alimentación.
+5. **Visualización de Rutina y Plan**  
+   El sistema debe permitir que el usuario visualice en cualquier momento su rutina de ejercicios y su plan de alimentación personalizado.
 
-Nuestro sistema debe permitir que el usuario vea su rutina de ejercicios y su plan de alimentación. 
+## Requisitos No Funcionales
 
-REQUERIMIENTOS NO FUNCIONALES.
+1. **Programación Orientada a Objetos (POO)**  
+   El sistema será desarrollado aplicando los principios de la programación orientada a objetos para asegurar una buena organización del código.
 
-Nuestro sistema va a estar desarrollado aplicando los principios de programación orientada a objetos.
+2. **Modularidad y Mantenibilidad**  
+   El código del sistema será modular, lo que facilitará su mantenimiento, ampliación y depuración.
 
-El código de nuestro sistema va a ser modular y fácil de mantener.
-
-Nuestro sistema va a tener un diseño legible y bien estructurado.
+3. **Diseño Legible y Estructurado**  
+   El diseño del sistema será limpio, con estructuras claras y legibles, para que sea comprensible tanto para desarrolladores actuales como futuros.
