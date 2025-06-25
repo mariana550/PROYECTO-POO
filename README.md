@@ -5,17 +5,17 @@
 1. **Registro de Usuarios**  
    El sistema debe permitir registrar a los usuarios ingresando su nombre y su peso.
 
-2. **Generación de Rutina y Plan de Alimentación**  
-   El sistema debe generar automáticamente una rutina de ejercicios y un plan de alimentación según el peso registrado de cada usuario.
+2. **Generación de Rutina Perzonalizada segun su peso**  
+   El sistema debe generar automáticamente una rutina de ejercicios especifica según el peso registrado de cada usuario.
 
 3. **Actualización de Peso**  
    El sistema debe permitir la actualización del peso del usuario en cualquier momento.
 
 4. **Recalculación Automática**  
-   Cuando se actualiza el peso del usuario, el sistema debe generar una nueva rutina de ejercicios y un nuevo plan de alimentación de manera automática.
+   Cuando se actualiza el peso del usuario, el sistema debe generar una nueva rutina de ejercicios especifica para su nuevo peso de manera automática.
 
-5. **Visualización de Rutina y Plan**  
-   El sistema debe permitir que el usuario visualice en cualquier momento su rutina de ejercicios y su plan de alimentación personalizado.
+5. **Visualización de su Rutina Especializada**  
+   El sistema debe permitir que el usuario visualice en cualquier momento su rutina de ejercicios especializada.
 
 ## Requisitos No Funcionales
 
