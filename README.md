@@ -1,4 +1,4 @@
-# Sistema de Recomendación de Rutinas y Alimentación Personalizada de un Gimnasio
+# Sistema de Recomendación de Rutinas Especializadas de un Gimnasio
 
 ## Requisitos Funcionales
 
